@@ -4,8 +4,8 @@ main:
     url: https://remaster5.github.io/rs/
   - title: "US"
     url: https://remaster5.github.io/us/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "JP"
+    url: https://remaster5.github.io/jp/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

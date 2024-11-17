@@ -2,7 +2,7 @@
 layout: single
 title: "test"
 date: 2024-11-17
-categori: x
+categories: x
 ---
 
 ![2022-01-08](https://github.com/user-attachments/assets/a344c592-acb6-4060-84e8-2085a3989ef3)
